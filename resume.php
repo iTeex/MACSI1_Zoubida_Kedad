@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-        <title>MACSI 1</title>
+        <title>Je change le titre</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
         <meta name="description" content=""/>
 		<meta name="keywords" content=""/>
