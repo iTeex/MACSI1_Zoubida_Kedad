@@ -34,12 +34,12 @@
 			<!-- BARRE DE NAVIGATION-->
 		</nav>
 		<div id="Prez">
-			<div id="tache">aaaaaaaaaaaa</div>
-			<div id="lot">bbbbbbbbbbbbb</div>
-			<div id="sousprojet">cccccccccccc</div>
-			<div id="jalons">dddddddddd</div>
-			<div id="phase">eeeeeeeeeeee</div>
-			<div id="livrable">fffffffffff</div>
+			<div id="tache">tache</div>
+			<div id="lot">lot</div>
+			<div id="sousprojet">sous proj</div>
+			<div id="jalons">jalons</div>
+			<div id="phase">phase</div>
+			<div id="livrable">livrable</div>
 		</div>
 		
 	</body>
